@@ -1,5 +1,8 @@
 <h1>{{title}}</h1>
 
-<ul>
-  <li *ngFor="let item of items">{{item.name}}</li>
-</ul>
+<div class="collection">
+  <div class="card" *ngFor="let item of items">
+    <div class="name">{{item.name}}</div>
+    <div class="price">{{item.price}}</div>
+  </div>
+</div>

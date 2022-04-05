@@ -8,13 +8,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Interview Process
 
-### Understanding the Angular Controller and View
+### Angular Controller and View
 1. Add `color` to `Item` type.
 2. Add color to item borders.
 3. Add optional `description` to `Item` type.
 4. Add description to view template.
 
-### Understanding the Angular Service
+### Angular Service
 1. Incorporate `ProductServer` to application.
 
 ### Open items
