@@ -24,6 +24,6 @@ export class AppComponent implements OnInit {
         id: '002',
         name: 'Eraser',
         price: 0.4
-      }]
+      }];
   }
 }
