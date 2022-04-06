@@ -24,6 +24,10 @@ export class AppComponent implements OnInit {
         id: '002',
         name: 'Eraser',
         price: 0.4
+      }, {
+        id: '003',
+        name: 'Pencil Sharpener',
+        price: 1.24
       }];
   }
 }

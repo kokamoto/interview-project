@@ -4,6 +4,6 @@
 <div class="collection">
   <div class="card" *ngFor="let item of items">
     <div class="name">{{item.name}}</div>
-    <div class="price">{{item.price}}</div>
+    <div class="price">{{item.price | currency}}</div>
   </div>
 </div>
