@@ -14,12 +14,15 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 3. Add optional `description` to `Item` type.
 4. Add description to view template.
 
-### Angular Service
-1. Incorporate `ProductServer` to application.
-2. Add ovservable to `ProductServer`.
+### Add Angular Service
+1. Incorporate `ProductService` to application.
+2. Add ovservable to `ProductService`.
 
 ### Open items
 1. Add sorting of list by `price`.
 4. Limit fetch to top 5 items.
 3. Create multiple lists by `departement`:  "Toys", "Garden", "Baby".
 2. Add search of list by `name`.
+
+
+1. Add image to product `https://via.placeholder.com/150`
